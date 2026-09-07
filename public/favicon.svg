@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#141210"/>
+  <circle cx="32" cy="32" r="28" stroke="#C59B27" stroke-width="1.5" stroke-opacity="0.4"/>
+  <circle cx="32" cy="32" r="24" stroke="#C59B27" stroke-width="1" stroke-dasharray="2 2" stroke-opacity="0.6"/>
+  <!-- Elegant Serif G with golden gradient -->
+  <defs>
+    <linearGradient id="goldGrad" x1="16" y1="16" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E5C568"/>
+      <stop offset="50%" stop-color="#C59B27"/>
+      <stop offset="100%" stop-color="#9E7818"/>
+    </linearGradient>
+  </defs>
+  <path d="M42 24.5C39.5 21.5 35.8 20 31.5 20C24 20 18.5 25.5 18.5 33C18.5 40.5 24.2 46 32 46C38 46 42.5 42.5 43.5 36H32V31H48.5V36.5C47.2 45.2 40.5 50 32 50C21.5 50 14 42.5 14 33C14 23.5 21.5 16 32 16C37.5 16 42.2 18.2 45.5 22L42 24.5Z" fill="url(#goldGrad)"/>
+</svg>

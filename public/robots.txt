@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guptarestaurant.in/sitemap.xml
